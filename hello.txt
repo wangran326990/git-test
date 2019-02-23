@@ -2,4 +2,4 @@ first commit
 
 commit on new feature branch
 
-bug fix on master
+bug fix on master change in master
