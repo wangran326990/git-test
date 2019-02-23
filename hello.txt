@@ -3,3 +3,5 @@ first commit
 commit on new feature branch
 
 bug fix on master
+
+new feature again
